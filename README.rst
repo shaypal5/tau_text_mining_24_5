@@ -15,3 +15,12 @@ Resources
   * `Learning notebook for the lecture <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_1/tau_text_mining_1_text_processing.ipynb>`_
 
   * `School Solution notebook <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_1/tau_text_mining_1_text_processing_school_solution.ipynb>`_
+
+
+* Lecture 2 - Word2Vec:
+
+  * `Slides <https://docs.google.com/presentation/d/12hbxaMKMOjfrRMyshMxy9-E73S9mBLAX_Pw4F8HhOcI/edit?usp=sharing>`_
+
+  * `Learning notebook for the lecture <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_2/Text_Mining_2024_Word2Vec_ex0.ipynb>`_
+
+  * `School Solution notebook <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_2/Text_Mining_2024_Word2Vec_ex0_school_solution.ipynb>`_
