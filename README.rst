@@ -29,6 +29,10 @@ Resources
 
   * `Slides <https://docs.google.com/presentation/d/1Q6HdoGrnph7WAoeiTLlomUzVGJywKnZ8dI_8F5fMUYc/edit?usp=sharing>`_
 
-  * `Learning notebook for the lecture <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_unsupervised.ipynb>`_
+  * `Unsupervised Text Mining - Learning notebook for the lecture <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_unsupervised.ipynb>`_
 
-  * `School Solution notebook <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_unsupervised_solution.ipynb>`_
+  * `Unsupervised Text Mining - School Solution notebook <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_unsupervised_solution.ipynb>`_
+
+  * `Sentiment Analysis - Learning notebook for the lecture <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_sentiment.ipynb>`_
+
+  * `Sentiment Analysis - School Solution notebook <https://github.com/shaypal5/tau_text_mining_24_5/blob/main/lecture_3/Text_Mining_2024_cex3_sentiment_solution.ipynb>`_
